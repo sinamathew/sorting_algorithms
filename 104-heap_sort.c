@@ -61,8 +61,6 @@ void max_heapify(int *array, size_t size, size_t base, size_t root)
  * algorithm. Prints the array after each swap.
  *
  * By: Sina Mathew
- *
- * Description: C is hard like clibing a heap
  */
 void heap_sort(int *array, size_t size)
 {
